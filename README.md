@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="A quiet late-night research studio in charcoal and amber" width="100%" />
+[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Hello%20World!%3Cbr%2F%3EWelcome%20to%20my%20Repo!&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 
 Building AI-enabled research software and thoughtful tools for scientific work.
 
