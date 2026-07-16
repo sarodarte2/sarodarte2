@@ -1,16 +1,39 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**sarodarte2/sarodarte2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="assets/banner.svg" alt="A quiet late-night research studio in charcoal and amber" width="100%" />
 
-Here are some ideas to get you started:
+Building AI-enabled research software and thoughtful tools for scientific work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://orcid.org/0009-0003-5020-9515">
+  <img src="https://img.shields.io/badge/ORCID-0009--0003--5020--9515-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID: 0009-0003-5020-9515" />
+</a>
+
+</div>
+
+<br />
+
+I am a researcher and builder interested in the practical space where
+computational science, emerging AI capabilities, biology, and careful software
+design meet. I care about tools that feel reliable, coherent, and genuinely
+useful to the people doing the work.
+
+## Current focus
+
+- Research software that makes complex scientific workflows easier to use
+- AI-enabled tools designed around real needs, constraints, and budgets
+- Developing stronger software-engineering practice: architecture, usability,
+  and durable implementation details
+
+## Some of my work
+
+| Project | A note |
+| :-- | :-- |
+| **SMAIRT Toolkit** *(in development)* | A research-oriented toolkit exploring human guided agentic workflows for scientific work. |
+
+<div align="center">
+
+<img src="assets/ambient-rain-terminal.gif" alt="Rainy window and a warm terminal glow" width="560" />
+
+<sub>Making technology a little more useful, one carefully considered workflow at a time.</sub>
+
+</div>
