@@ -24,12 +24,6 @@ useful to the people doing the work.
 - Developing stronger software-engineering practice: architecture, usability,
   and durable implementation details
 
-## Some of my work
-
-| Project | A note |
-| :-- | :-- |
-| **SMAIRT Toolkit** *(in development)* | A research-oriented toolkit exploring human guided agentic workflows for scientific work. |
-
 <div align="center">
 
 <img src="assets/ambient-rain-terminal.gif" alt="Rainy window and a warm terminal glow" width="560" />
